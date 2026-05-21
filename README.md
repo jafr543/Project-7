@@ -38,5 +38,3 @@ A comprehensive banking system built using **Object-Oriented Programming (OOP)**
 ​Username: User1
 ​Password: 1234
 ---
-
-## 📁 Project Structure
